@@ -1,0 +1,9 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created. ✅ Created
+- [x] Clarify Project Requirements ✅ VitePress site with GitHub Pages deployment
+- [x] Scaffold the Project ✅ VitePress initialized
+- [x] Customize the Project ✅ Homepage with 3 chapters, GitHub Pages workflow
+- [x] Install Required Extensions ✅ No extensions needed
+- [x] Compile the Project ✅ Dependencies installed
+- [x] Create and Run Task ✅ Development server running
+- [x] Launch the Project ✅ Available at http://localhost:5173/Calliope-Seite/
+- [x] Ensure Documentation is Complete ✅ README.md created, project structure documented
