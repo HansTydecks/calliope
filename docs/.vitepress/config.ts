@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Calliope Dokumentation',
   description: 'Eine umfassende Dokumentation für Calliope',
-  base: '/Calliope-Seite/',
+  base: '/calliope/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
