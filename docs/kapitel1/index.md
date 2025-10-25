@@ -1,21 +1,13 @@
-# Kapitel 1 - Grundlagen
+# Kapitel 1: Hardware und Software
 
-## Einführung
+Informatiksysteme sind überall. Du interagierst ziemlich sicher tagtäglich auf hunderte verschiedene Arten und Weisen mit ihnen. Um Informatiksysteme besser zu verstehen wurden sie in Hardware und Software eingeteilt.
+**Hardware** ist alles, was man bei einem Computer anfassen kann, also die Geräte und Bauteile.
+**Software** ist das, was man nicht anfassen, aber benutzen kann, also die Programme und Apps, die auf der Hardware laufen und sie steuern.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Übung: Hardware und Software unterscheiden
 
-## Erste Schritte
+Kategorisiere Hard- und Software, indem due die Karten nach links und rechts ziehst.
+Tipp: klicke oben rechts auf die Pfeile. So wird die App groß!
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<iframe src="https://learningapps.org/watch?v=pb6mwsd1a25" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-### Installation
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-
-### Konfiguration
-
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-
-## Zusammenfassung
-
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.

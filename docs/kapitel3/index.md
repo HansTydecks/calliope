@@ -1,21 +1,13 @@
-# Kapitel 3 - Experte
+# Kapitel 3: Algorithmische Vorgänge in Sprache fassen
 
-## Erweiterte Techniken
+Nun geht es darum, Abläufe klar zu beschreiben, bevor überhaupt ein Block gesetzt wird. Das Kapitel zeigt, wie präzise Formulierungen helfen, Missverständnisse zu vermeiden und Programmlogik sauber zu planen.
 
-Facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+## Fokus
 
-## Problemlösung
+- Merkmale guter Anweisungen (präzise, eindeutig, vollständig)
+- Strukturierte Beschreibungen mit Listen oder nummerierten Schritten
+- Übergang von Alltagssprache zu informeller Pseudocode-Notation
 
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.
+## Lernziel in zwei Sätzen
 
-### Debugging Strategien
-
-Vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.
-
-### Performance Optimierung
-
-Quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
-
-## Zukunftsperspektiven
-
-Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est.
+Lernende entwickeln ein Gefühl dafür, wie detailliert und unmissverständlich algorithmische Vorgänge beschrieben werden müssen. Sie üben, aus Beobachtungen klare Handlungsanweisungen zu formulieren, die später als Grundlage für Programme dienen.

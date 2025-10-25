@@ -1,21 +1,13 @@
-# Kapitel 2 - Fortgeschritten
+# Kapitel 2: EVA-Modell am Einplatinenrechner
 
-## Erweiterte Konzepte
+Dieses Kapitel überträgt das klassische EVA-Modell (Eingabe, Verarbeitung, Ausgabe) auf den Calliope mini. Es zeigt, wie Hardwareelemente den Modellschritten zugeordnet werden können und wie Lernende reale Beispiele erkennen.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+## Was wird verdeutlicht?
 
-## Praktische Anwendungen
+- Typische Eingabegeräte: Buttons, Sensoren, externe Module
+- Verarbeitung als Programmlogik auf dem Mikrocontroller
+- Ausgabe über LEDs, Lautsprecher oder angeschlossene Aktoren
 
-Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.
+## Lernziel in zwei Sätzen
 
-### Beispiel 1
-
-Quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet.
-
-### Beispiel 2
-
-Ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias.
-
-## Best Practices
-
-Consequatur aut perferendis doloribus asperiores repellat. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat.
+Die Lernenden können nach diesem Abschnitt das EVA-Modell auf konkrete Szenarien mit dem Calliope mini anwenden. Sie erkennen, wie sich Hardware- und Softwareentscheidungen gegenseitig beeinflussen.

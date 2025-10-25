@@ -19,7 +19,13 @@ npm run docs:build
 
 ## Deployment
 
-Die Site wird automatisch über GitHub Actions auf GitHub Pages deployed, wenn Änderungen an den `main` Branch gepusht werden.
+```bash
+npm run build-and-deploy
+```
+
+Der Befehl baut die Seite lokal, staged Änderungen und erstellt bei Bedarf einen Commit mit anschließendem Push. Dadurch wird die GitHub-Actions-Pipeline ausgelöst und die Seite auf GitHub Pages veröffentlicht. Stelle sicher, dass `origin` auf das GitHub-Repository zeigt und du auf dem `main`-Branch arbeitest.
+
+Alternativ wird die Site automatisch über GitHub Actions deployed, wenn Änderungen manuell an den `main` Branch gepusht werden.
 
 ## Struktur
 
