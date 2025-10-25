@@ -20,22 +20,22 @@ hero:
 ---
 
 <section class="chapter-grid">
-  <a class="chapter-card" href="/kapitel1/">
+  <a class="chapter-card" href="kapitel1/">
     <img src="/icons_frontpage/chapter_1.png" alt="Kapitel 1 Icon" loading="lazy" />
     <h3>Kapitel 1</h3>
     <p>Die wichtigsten Komponenten des Calliope mini</p>
   </a>
-  <a class="chapter-card" href="/kapitel2/">
+  <a class="chapter-card" href="kapitel2/">
     <img src="/icons_frontpage/chapter_2.png" alt="Kapitel 2 Icon" loading="lazy" />
     <h3>Kapitel 2</h3>
     <p>Eingabe, Verarbeitung und Ausgabe am Einplatinenrechner</p>
   </a>
-  <a class="chapter-card" href="/kapitel3/">
+  <a class="chapter-card" href="kapitel3/">
     <img src="/icons_frontpage/chapter_3.png" alt="Kapitel 3 Icon" loading="lazy" />
     <h3>Kapitel 3</h3>
     <p>Algorithmische Abläufe beschreiben</p>
   </a>
-  <a class="chapter-card" href="/kapitel4/">
+  <a class="chapter-card" href="kapitel4/">
     <img src="/icons_frontpage/chapter_4.png" alt="Kapitel 4 Icon" loading="lazy" />
     <h3>Kapitel 4</h3>
     <p>Kleine Projekte</p>
