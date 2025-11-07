@@ -5,6 +5,7 @@ export default defineConfig({
   title: 'Calliope Dokumentation',
   description: 'Eine umfassende Dokumentation für Calliope',
   base: '/calliope/',
+  cleanUrls: true,
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
