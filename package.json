@@ -11,8 +11,8 @@
     "build-and-deploy": "npm run docs:build && git add -A && git diff --cached --quiet && echo Nothing to commit, deployment ready. || (git commit -m \"chore: update docs site\" && git push)"
   },
   "devDependencies": {
-    "vue": "3.2.44",
-    "vitepress": "1.0.0-alpha.28"
+    "vue": "^3.4.0",
+    "vitepress": "^1.5.0"
   },
   "pnpm": {
     "peerDependencyRules": {
